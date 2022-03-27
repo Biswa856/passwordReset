@@ -1,0 +1,25 @@
+html,body,#root{
+    height: 100%;
+}
+.container{
+    /* background: red; */
+    height: 100%;
+    display: grid;
+    grid-template-rows: 104px auto 100px;
+}
+
+.content{
+    /* background: yellow; */
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background:  #E5E5E5;
+}
+.footer{
+    background: #2180B3;
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
+}

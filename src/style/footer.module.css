@@ -1,0 +1,9 @@
+.footerBox{
+   width: 500px;
+   /* background-color: aqua; */
+   display: flex;
+   justify-content: space-between;
+}
+.text{
+   font-size: 20px;
+}
