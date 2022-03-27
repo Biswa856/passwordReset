@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/passwordReset/static/css/main.3bd5c539.css",
+    "main.js": "/passwordReset/static/js/main.902963a3.js",
+    "static/js/787.ce06124e.chunk.js": "/passwordReset/static/js/787.ce06124e.chunk.js",
+    "static/media/Back drop 1.png": "/passwordReset/static/media/Back drop 1.5757b97a147b0e56b126.png",
+    "index.html": "/passwordReset/index.html",
+    "main.3bd5c539.css.map": "/passwordReset/static/css/main.3bd5c539.css.map",
+    "main.902963a3.js.map": "/passwordReset/static/js/main.902963a3.js.map",
+    "787.ce06124e.chunk.js.map": "/passwordReset/static/js/787.ce06124e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3bd5c539.css",
+    "static/js/main.902963a3.js"
+  ]
+}
